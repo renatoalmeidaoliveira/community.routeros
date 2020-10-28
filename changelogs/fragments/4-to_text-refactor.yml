@@ -1,0 +1,2 @@
+refactor:
+- change the module to_text for to_native as https://docs.ansible.com/ansible/latest/dev_guide/developing_plugins.html#raising-errors
